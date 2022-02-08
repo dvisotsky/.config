@@ -1,0 +1,7 @@
+[2022-02-04 10:51:54.082] [main] [info] update#setState idle
+[2022-02-04 10:51:54.106] [main] [info] ExtensionHostStarterWorker created
+[2022-02-04 10:51:54.721] [main] [info] Starting extension host with pid 4276 (fork() took 4 ms).
+[2022-02-04 10:52:24.083] [main] [info] update#setState checking for updates
+[2022-02-04 10:52:24.088] [main] [info] update#setState available for download
+[2022-02-04 11:15:45.881] [main] [info] Waiting for extension host with pid 4276 to exit.
+[2022-02-04 11:15:45.890] [main] [info] Extension host with pid 4276 exited with code: 0, signal: null.

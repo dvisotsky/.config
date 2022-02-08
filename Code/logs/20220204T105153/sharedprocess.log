@@ -1,0 +1,7 @@
+[2022-02-04 10:51:55.267] [sharedprocess] [info] Starting worker process with pid 4331 (type: watcherServiceParcelSharedProcess, window: 1).
+[2022-02-04 10:51:56.800] [sharedprocess] [info] Installing extension: streetsidesoftware.code-spell-checker
+[2022-02-04 10:51:57.263] [sharedprocess] [info] Downloaded extension: streetsidesoftware.code-spell-checker /home/david/.config/Code/CachedExtensionVSIXs/streetsidesoftware.code-spell-checker-2.1.5
+[2022-02-04 10:51:57.524] [sharedprocess] [info] Extracted extension to /home/david/.vscode/extensions/.49d28e77-deba-42ab-ad1f-76827c6c7c4b: streetsidesoftware.code-spell-checker
+[2022-02-04 10:51:57.528] [sharedprocess] [info] Renamed to /home/david/.vscode/extensions/streetsidesoftware.code-spell-checker-2.1.5
+[2022-02-04 10:51:57.530] [sharedprocess] [info] Extracting completed. streetsidesoftware.code-spell-checker
+[2022-02-04 10:51:57.533] [sharedprocess] [info] Extension installed successfully: streetsidesoftware.code-spell-checker

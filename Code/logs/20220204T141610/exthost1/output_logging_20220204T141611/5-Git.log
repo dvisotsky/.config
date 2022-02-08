@@ -1,0 +1,356 @@
+Validating found git in: git
+Using git 2.32.0 from git
+> git rev-parse --git-dir
+Open repository: /home/david/proj/interview
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git show --textconv :src/components/Tree.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/Tree.tsx
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git cat-file -s ad13046fc650a24bf9ad2482ce607f041678a830
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git ls-files --stage -- /home/david/proj/interview/src/components/Tree.tsx
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git cat-file -s ad13046fc650a24bf9ad2482ce607f041678a830
+> git config --get commit.template
+> git show --textconv :src/components/Tree.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/App/index.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/App/index.tsx
+> git cat-file -s 624e256ea745e9890fd021a396280dd0c1996b4f
+> git show --textconv :src/index.html
+> git ls-files --stage -- /home/david/proj/interview/src/index.html
+> git cat-file -s bcd648f7d32fb9b176f3c6f5b16f2ce16fd63323
+> git show --textconv :src/components/App/index.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/App/index.tsx
+> git cat-file -s 624e256ea745e9890fd021a396280dd0c1996b4f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/Tree.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/Tree.tsx
+> git cat-file -s ad13046fc650a24bf9ad2482ce607f041678a830
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git ls-files --stage -- /home/david/proj/interview/src/components/Tree.tsx
+> git cat-file -s ad13046fc650a24bf9ad2482ce607f041678a830
+> git config --get commit.template
+> git show --textconv :src/components/Tree.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/Tree.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/Tree.tsx
+> git cat-file -s ad13046fc650a24bf9ad2482ce607f041678a830
+> git show --textconv :src/components/App/index.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/App/index.tsx
+> git cat-file -s 624e256ea745e9890fd021a396280dd0c1996b4f
+> git show --textconv :src/components/Tree.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/Tree.tsx
+> git cat-file -s ad13046fc650a24bf9ad2482ce607f041678a830
+> git show --textconv :src/components/App/index.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/App/index.tsx
+> git cat-file -s 624e256ea745e9890fd021a396280dd0c1996b4f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/index.html
+> git ls-files --stage -- /home/david/proj/interview/src/index.html
+> git cat-file -s bcd648f7d32fb9b176f3c6f5b16f2ce16fd63323
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/App/index.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/App/index.tsx
+> git cat-file -s 624e256ea745e9890fd021a396280dd0c1996b4f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/david/proj/interview/src/components/App/index.tsx
+> git show --textconv :src/components/Tree.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/Tree.tsx
+> git cat-file -s ad13046fc650a24bf9ad2482ce607f041678a830
+> git show --textconv :src/index.html
+> git ls-files --stage -- /home/david/proj/interview/src/index.html
+> git cat-file -s bcd648f7d32fb9b176f3c6f5b16f2ce16fd63323
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :backend.js
+> git ls-files --stage -- /home/david/proj/interview/backend.js
+> git cat-file -s f5987197ba837c6469edf2c03abdd6192cf69333
+> git show --textconv :src/components/App/index.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/App/index.tsx
+> git cat-file -s 624e256ea745e9890fd021a396280dd0c1996b4f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :backend.js
+> git ls-files --stage -- /home/david/proj/interview/backend.js
+> git cat-file -s f5987197ba837c6469edf2c03abdd6192cf69333
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/Tree.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/Tree.tsx
+> git cat-file -s ad13046fc650a24bf9ad2482ce607f041678a830
+> git show --textconv :src/components/App/index.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/App/index.tsx
+> git cat-file -s 624e256ea745e9890fd021a396280dd0c1996b4f
+> git show --textconv :backend.js
+> git ls-files --stage -- /home/david/proj/interview/backend.js
+> git cat-file -s f5987197ba837c6469edf2c03abdd6192cf69333
+> git show --textconv :src/components/App/index.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/App/index.tsx
+> git cat-file -s 624e256ea745e9890fd021a396280dd0c1996b4f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/index.html
+> git ls-files --stage -- /home/david/proj/interview/src/index.html
+> git cat-file -s bcd648f7d32fb9b176f3c6f5b16f2ce16fd63323
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/App/index.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/App/index.tsx
+> git cat-file -s 624e256ea745e9890fd021a396280dd0c1996b4f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/Tree.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/Tree.tsx
+> git cat-file -s ad13046fc650a24bf9ad2482ce607f041678a830
+> git show --textconv :src/components/App/index.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/App/index.tsx
+> git cat-file -s 624e256ea745e9890fd021a396280dd0c1996b4f
+> git show --textconv :src/components/Tree.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/Tree.tsx
+> git cat-file -s ad13046fc650a24bf9ad2482ce607f041678a830
+> git show --textconv :src/components/App/index.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/App/index.tsx
+> git cat-file -s 624e256ea745e9890fd021a396280dd0c1996b4f
+> git show --textconv :src/components/Tree.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/Tree.tsx
+> git cat-file -s ad13046fc650a24bf9ad2482ce607f041678a830
+> git show --textconv :src/components/App/index.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/App/index.tsx
+> git cat-file -s 624e256ea745e9890fd021a396280dd0c1996b4f
+> git show --textconv :backend.js
+> git ls-files --stage -- /home/david/proj/interview/backend.js
+> git cat-file -s f5987197ba837c6469edf2c03abdd6192cf69333
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/App/index.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/App/index.tsx
+> git cat-file -s 624e256ea745e9890fd021a396280dd0c1996b4f
+> git show --textconv :src/components/Tree.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/Tree.tsx
+> git cat-file -s ad13046fc650a24bf9ad2482ce607f041678a830
+> git show --textconv :src/components/App/index.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/App/index.tsx
+> git cat-file -s 624e256ea745e9890fd021a396280dd0c1996b4f
+> git show --textconv :src/components/Tree.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/Tree.tsx
+> git cat-file -s ad13046fc650a24bf9ad2482ce607f041678a830
+> git show --textconv :src/components/App/index.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/App/index.tsx
+> git cat-file -s 624e256ea745e9890fd021a396280dd0c1996b4f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :backend.js
+> git ls-files --stage -- /home/david/proj/interview/backend.js
+> git cat-file -s f5987197ba837c6469edf2c03abdd6192cf69333

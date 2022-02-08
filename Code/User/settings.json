@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Nord",
+    "editor.formatOnSave": true,
+    "editor.fontFamily": "'JetBrain Mono','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "editor.defaultFormatter": "vscode.typescript-language-features",
+    "cSpell.userWords": [
+        "interactives",
+        "xaxis",
+        "yaxis"
+    ],
+    "prettier.printWidth": 60
+}

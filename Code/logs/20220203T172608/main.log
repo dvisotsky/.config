@@ -1,0 +1,10 @@
+[2022-02-03 17:26:08.701] [main] [info] update#setState idle
+[2022-02-03 17:26:08.720] [main] [info] ExtensionHostStarterWorker created
+[2022-02-03 17:26:09.406] [main] [info] Starting extension host with pid 20243 (fork() took 6 ms).
+[2022-02-03 17:26:38.708] [main] [info] update#setState checking for updates
+[2022-02-03 17:27:09.661] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:7068)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2022-02-03 17:27:09.661] [main] [info] update#setState idle
+[2022-02-03 21:22:58.931] [main] [info] update#setState checking for updates
+[2022-02-03 21:22:59.293] [main] [info] update#setState available for download

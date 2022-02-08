@@ -1,0 +1,7 @@
+[2022-02-08 09:53:35.274] [sharedprocess] [info] Starting worker process with pid 6755 (type: watcherServiceParcelSharedProcess, window: 1).
+[2022-02-08 09:53:36.950] [sharedprocess] [info] Installing extension: formulahendry.auto-rename-tag
+[2022-02-08 09:53:37.463] [sharedprocess] [info] Downloaded extension: formulahendry.auto-rename-tag /home/david/.config/Code/CachedExtensionVSIXs/formulahendry.auto-rename-tag-0.1.10
+[2022-02-08 09:53:37.612] [sharedprocess] [info] Extracted extension to /home/david/.vscode/extensions/.a13b8c8e-115f-4193-910c-ed4f926fd5b1: formulahendry.auto-rename-tag
+[2022-02-08 09:53:37.614] [sharedprocess] [info] Renamed to /home/david/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10
+[2022-02-08 09:53:37.615] [sharedprocess] [info] Extracting completed. formulahendry.auto-rename-tag
+[2022-02-08 09:53:37.618] [sharedprocess] [info] Extension installed successfully: formulahendry.auto-rename-tag

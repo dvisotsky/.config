@@ -1,0 +1,85 @@
+Validating found git in: git
+Using git 2.32.0 from git
+> git rev-parse --git-dir
+Open repository: /home/david/Documents/keeb/zmk-config
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :config/corne.keymap
+> git ls-files --stage -- /home/david/Documents/keeb/zmk-config/config/corne.keymap
+> git cat-file -s ff40963765f493d7e496c01ecb0a368f9b8e9446
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/david/Documents/keeb/zmk-config/config/corne.keymap
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git cat-file -s 9094a869def6c776c6d2f6dec9da4fc0a6869a30
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :config/corne.keymap
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:config/corne.keymap
+> git show --textconv :config/corne.keymap
+> git ls-tree -l HEAD -- /home/david/Documents/keeb/zmk-config/config/corne.keymap
+> git ls-files --stage -- /home/david/Documents/keeb/zmk-config/config/corne.keymap
+> git cat-file -s 9094a869def6c776c6d2f6dec9da4fc0a6869a30
+> git check-ignore -v -z --stdin
+> git ls-tree -l HEAD -- /home/david/Documents/keeb/zmk-config/config/corne.keymap
+> git ls-files --stage -- /home/david/Documents/keeb/zmk-config/config/corne.keymap
+> git status -z -u
+> git cat-file -s 9094a869def6c776c6d2f6dec9da4fc0a6869a30
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/david/Documents/keeb/zmk-config/config/corne.keymap
+> git ls-files --stage -- /home/david/Documents/keeb/zmk-config/config/corne.keymap
+> git cat-file -s 9094a869def6c776c6d2f6dec9da4fc0a6869a30
+> git show --textconv HEAD:config/corne.keymap
+> git show --textconv :config/corne.keymap
+> git show --textconv HEAD:config/corne.keymap
+> git show --textconv :config/corne.keymap
+> git ls-tree -l HEAD -- /home/david/Documents/keeb/zmk-config/config/corne.keymap
+> git ls-files --stage -- /home/david/Documents/keeb/zmk-config/config/corne.keymap
+> git cat-file -s 9094a869def6c776c6d2f6dec9da4fc0a6869a30
+> git show --textconv :config/corne.keymap
+> git ls-files --stage -- /home/david/Documents/keeb/zmk-config/config/corne.keymap
+> git cat-file -s 9094a869def6c776c6d2f6dec9da4fc0a6869a30
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/david/Documents/keeb/zmk-config/config/corne.keymap
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git cat-file -s 257d1832287f5e6315cdca50f0712744e79452ea
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :config/corne.keymap

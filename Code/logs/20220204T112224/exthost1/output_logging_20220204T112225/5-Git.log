@@ -1,0 +1,742 @@
+Validating found git in: git
+Using git 2.32.0 from git
+> git rev-parse --git-dir
+Open repository: /home/david/proj/battleship-react-dvisotsky
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Session.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/Session.js
+> git cat-file -s 3e23abf724ce39aa59d8c7fcc97237289f5f84c9
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/App.js
+> git cat-file -s 6eadc3a14372b114dc19d2ec7904f83aef0e4a0f
+> git show --textconv :src/Session.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/Session.js
+> git cat-file -s 3e23abf724ce39aa59d8c7fcc97237289f5f84c9
+> git show --textconv :src/setupProxy.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/setupProxy.js
+> git cat-file -s fafe0dccac7e4957dfaf8e140ea01cb586d16a32
+> git show --textconv :src/RemoteAI.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/RemoteAI.js
+> git cat-file -s b1a7e524eb4379c1f94873840c5d605630336109
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/index.js
+> git cat-file -s 20d06b1cb3009cdc159197aa21288073a336cae2
+> git show --textconv :src/index.css
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/index.css
+> git cat-file -s 4a79004683bb9ba448b262983a9b86ff13d9ad16
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/Match.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/components/Match.js
+> git cat-file -s c83c2a573168d8e576228650a71b2099f7ba74f9
+> git check-ignore -v -z --stdin
+> git show --textconv :server/server.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/server/server.js
+> git cat-file -s 9a7a27d1e2cc5245ae7722b6c18ae9eb21159a2d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Session.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/Session.js
+> git cat-file -s 3e23abf724ce39aa59d8c7fcc97237289f5f84c9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/App.js
+> git cat-file -s 6eadc3a14372b114dc19d2ec7904f83aef0e4a0f
+> git show --textconv :src/components/Match.css
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/components/Match.css
+> git cat-file -s a23fb62a5958960e6cbaa089f3e0b4d8b5b65cfa
+> git show --textconv :src/components/Match.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/components/Match.js
+> git cat-file -s c83c2a573168d8e576228650a71b2099f7ba74f9
+> git show --textconv :package.json
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/package.json
+> git cat-file -s 87cacd5b3f09bb4c0e64f4734b2c20fb81320e2b
+> git show --textconv :src/components/Match.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/components/Match.js
+> git cat-file -s c83c2a573168d8e576228650a71b2099f7ba74f9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/Match.css
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/components/Match.css
+> git cat-file -s a23fb62a5958960e6cbaa089f3e0b4d8b5b65cfa
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/Match.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/components/Match.js
+> git cat-file -s c83c2a573168d8e576228650a71b2099f7ba74f9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Session.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/Session.js
+> git cat-file -s 3e23abf724ce39aa59d8c7fcc97237289f5f84c9
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/App.js
+> git cat-file -s 6eadc3a14372b114dc19d2ec7904f83aef0e4a0f
+> git show --textconv :src/Session.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/Session.js
+> git cat-file -s 3e23abf724ce39aa59d8c7fcc97237289f5f84c9
+> git show --textconv :src/components/Match.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/components/Match.js
+> git cat-file -s c83c2a573168d8e576228650a71b2099f7ba74f9
+> git show --textconv :src/Api.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/Api.js
+> git cat-file -s 589d9db3457e2749f576ea5c0e59c41a1643a72d
+> git show --textconv :src/components/Match.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/components/Match.js
+> git cat-file -s c83c2a573168d8e576228650a71b2099f7ba74f9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Api.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/Api.js
+> git cat-file -s 589d9db3457e2749f576ea5c0e59c41a1643a72d
+> git show --textconv :src/components/Match.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/components/Match.js
+> git cat-file -s c83c2a573168d8e576228650a71b2099f7ba74f9
+> git show --textconv :src/Api.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/Api.js
+> git cat-file -s 589d9db3457e2749f576ea5c0e59c41a1643a72d
+> git show --textconv :src/components/Match.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/components/Match.js
+> git cat-file -s c83c2a573168d8e576228650a71b2099f7ba74f9
+> git show --textconv :src/Api.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/Api.js
+> git cat-file -s 589d9db3457e2749f576ea5c0e59c41a1643a72d
+> git show --textconv :src/components/Match.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/components/Match.js
+> git cat-file -s c83c2a573168d8e576228650a71b2099f7ba74f9
+> git show --textconv :src/Api.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/Api.js
+> git cat-file -s 589d9db3457e2749f576ea5c0e59c41a1643a72d
+> git show --textconv :src/components/Match.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/components/Match.js
+> git cat-file -s c83c2a573168d8e576228650a71b2099f7ba74f9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/App.js
+> git cat-file -s 6eadc3a14372b114dc19d2ec7904f83aef0e4a0f
+> git show --textconv :src/components/Match.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/components/Match.js
+> git cat-file -s c83c2a573168d8e576228650a71b2099f7ba74f9
+> git show --textconv :src/Session.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/Session.js
+> git cat-file -s 3e23abf724ce39aa59d8c7fcc97237289f5f84c9
+> git show --textconv :src/components/Match.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/components/Match.js
+> git cat-file -s c83c2a573168d8e576228650a71b2099f7ba74f9
+> git show --textconv :server/server.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/server/server.js
+> git cat-file -s 9a7a27d1e2cc5245ae7722b6c18ae9eb21159a2d
+> git show --textconv :src/components/Match.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/components/Match.js
+> git cat-file -s c83c2a573168d8e576228650a71b2099f7ba74f9
+> git show --textconv :src/Api.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/Api.js
+> git cat-file -s 589d9db3457e2749f576ea5c0e59c41a1643a72d
+> git show --textconv :src/components/Match.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/components/Match.js
+> git cat-file -s c83c2a573168d8e576228650a71b2099f7ba74f9
+> git show --textconv :src/Api.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/Api.js
+> git cat-file -s 589d9db3457e2749f576ea5c0e59c41a1643a72d
+> git show --textconv :src/components/Match.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/components/Match.js
+> git cat-file -s c83c2a573168d8e576228650a71b2099f7ba74f9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Api.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/Api.js
+> git cat-file -s 589d9db3457e2749f576ea5c0e59c41a1643a72d
+> git show --textconv :src/components/Match.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/components/Match.js
+> git cat-file -s c83c2a573168d8e576228650a71b2099f7ba74f9
+> git show --textconv :src/Api.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/Api.js
+> git cat-file -s 589d9db3457e2749f576ea5c0e59c41a1643a72d
+> git show --textconv :src/components/Match.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/components/Match.js
+> git cat-file -s c83c2a573168d8e576228650a71b2099f7ba74f9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Api.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/Api.js
+> git cat-file -s 589d9db3457e2749f576ea5c0e59c41a1643a72d
+> git show --textconv :src/components/Match.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/components/Match.js
+> git cat-file -s c83c2a573168d8e576228650a71b2099f7ba74f9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Api.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/Api.js
+> git cat-file -s 589d9db3457e2749f576ea5c0e59c41a1643a72d
+> git show --textconv :src/Session.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/Session.js
+> git cat-file -s 3e23abf724ce39aa59d8c7fcc97237289f5f84c9
+> git show --textconv :server/server.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/server/server.js
+> git cat-file -s 9a7a27d1e2cc5245ae7722b6c18ae9eb21159a2d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/Match.js
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/components/Match.js
+> git cat-file -s c83c2a573168d8e576228650a71b2099f7ba74f9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/david/proj/battleship-react-dvisotsky/src/components/Match.js
+> git cat-file -s b386be9a1395c1a49fd2ba7788032e99e63c8c46
+> git show --textconv :src/components/Match.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/takehome refs/remotes/takehome
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

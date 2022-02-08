@@ -1,0 +1,21 @@
+[2022-02-04 10:51:55.163] [exthost] [info] Extension host with pid 4276 started
+[2022-02-04 10:51:55.163] [exthost] [info] Skipping acquiring lock for /home/david/.config/Code/User/workspaceStorage/f8392c44e951c8f6ca0a02e124a3c384.
+[2022-02-04 10:51:55.228] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-02-04 10:51:55.234] [exthost] [info] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer, startup: false, activationEvent: 'onLanguage:plaintext'
+[2022-02-04 10:51:55.238] [exthost] [info] ExtensionService#_doActivateExtension spadin.zmk-tools, startup: false, activationEvent: 'onLanguage:zmk-keymap'
+[2022-02-04 10:51:55.253] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-04 10:51:55.258] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-04 10:51:55.261] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-02-04 10:51:55.321] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-02-04 10:51:55.405] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-04 10:51:55.419] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-04 10:51:55.466] [exthost] [info] Eager extensions activated
+[2022-02-04 10:51:55.480] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-04 10:51:55.484] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-04 10:51:55.486] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-04 10:51:55.649] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-04 10:51:55.850] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-04 10:51:55.852] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-04 10:51:55.861] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-04 11:15:45.873] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-02-04 11:15:45.880] [exthost] [info] Extension host with pid 4276 exiting with code 0

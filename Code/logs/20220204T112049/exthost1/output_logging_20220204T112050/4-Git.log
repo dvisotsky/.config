@@ -1,0 +1,14 @@
+Validating found git in: git
+Using git 2.32.0 from git
+> git rev-parse --git-dir
+Open repository: /home/david/proj/interview
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/Tree.tsx
+> git ls-files --stage -- /home/david/proj/interview/src/components/Tree.tsx
+> git cat-file -s ad13046fc650a24bf9ad2482ce607f041678a830
+> git check-ignore -v -z --stdin

@@ -1,0 +1,7 @@
+[2022-02-04 11:20:49.133] [main] [info] update#setState idle
+[2022-02-04 11:20:49.152] [main] [info] ExtensionHostStarterWorker created
+[2022-02-04 11:20:49.745] [main] [info] Starting extension host with pid 7690 (fork() took 13 ms).
+[2022-02-04 11:21:19.146] [main] [info] update#setState checking for updates
+[2022-02-04 11:21:19.152] [main] [info] update#setState available for download
+[2022-02-04 11:22:21.763] [main] [info] Waiting for extension host with pid 7690 to exit.
+[2022-02-04 11:22:21.794] [main] [info] Extension host with pid 7690 exited with code: 0, signal: null.
