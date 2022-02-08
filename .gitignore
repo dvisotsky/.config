@@ -15,6 +15,8 @@ gnome-session
 goa-1.0
 google-chrome
 gtk.*
+gtk-2.0
+gtk-3.0
 guake
 ibus
 JetBrains
@@ -22,21 +24,25 @@ libreoffice
 lutris
 menus`
 mimeapps.list
-monitors.xml.*
+monitors.xml
+monitors.xml~
 nautilus
 nextjs-nodejs
 obs-studio
-pavucontol.ini
+pavucontrol.ini
 pop-shell
 pulse
 qalculate
 QtProject.conf
-'Raspberry Pi'
-sxhdk
+Raspberry Pi
+sxhkd
 totem
 touchegg
 inity3d
-'Unknown Organization'
-users-dirs.*
+Unknown Organization
+users-dirs.dirs
+users-dirs.locale
+vlc/
 vivaldi
+zoomus.conf
 
