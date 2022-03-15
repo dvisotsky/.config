@@ -2,6 +2,7 @@ autostart
 bspwm
 cef_user_data
 Code
+Code/
 dconf
 enchant
 eog
@@ -39,7 +40,7 @@ Raspberry Pi
 sxhkd
 totem
 touchegg
-inity3d
+unity3d
 Unknown Organization
 users-dirs.dirs
 users-dirs.locale
